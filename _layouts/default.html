@@ -17,18 +17,6 @@
       <header>
         <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        {% if site.github.is_user_page %}
-          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
-
-        {% if site.show_downloads %}
-          <ul>
-            <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-            <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-            <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-          </ul>
-        {% endif %}
         <p class="k-margin-60"><h3><a class="k-nav" href="/love-sun">孙姑娘</a></h3></p>
         <p><h3><a class="k-nav" href="/coding">Coding</a></h3></p>
         <p><h3><a class="k-nav" href="/alg">Algorithm</a></h3></p>
@@ -42,9 +30,7 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-          <p><small>View this project source, click <a href="{{ site.github.repository_url }}">here</a></small></p>
-        {% endif %}
+        <p><small>View this project source, click <a href="{{ site.github.repository_url }}">here</a></small></p>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
