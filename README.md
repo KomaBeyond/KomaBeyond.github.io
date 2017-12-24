@@ -1,2 +1,2 @@
 # KomaBeyond.github.io
-This is my blog
+This is Koma's Blog
