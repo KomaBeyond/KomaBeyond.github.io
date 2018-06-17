@@ -1,6 +1,6 @@
 ---
 title: Build your own blog bu Jekyll and host in github pages
-permalink: /funny/build-blog-by-jekyll
+permalink: /coding/build-blog-by-jekyll
 ---
 
 ## 基于 github pages 使用 Jekyll 构建个人博客
