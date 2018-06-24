@@ -10,7 +10,7 @@ permalink: /alg/recursion-resolve-method
 * 主方法: 主方法依赖于主定理，这也是本次笔记的主要说明方法。
 
 ### 主定理
-关于主定理的定义及其三种情况的说明如图: [](/assets/images/recursion-resolve-method-1.png)
+关于主定理的定义及其三种情况的说明如图: ![](/assets/images/recursion-resolve-method-1.png)
 在以后求解递归式中，我们首先会检测是否可以使用主方法，在主方法不能求解之后我们才会去尝试其它方法，但是通常主方法是管用的。
 
 > 以上引用自《算法导论》第四章
