@@ -6,8 +6,8 @@ layout: default
 *The greatest barrier to success is the fear of failure.*
 
 ## 今日趣事儿
-发现并玩儿开了 Jekyll！
-虽然知道的晚了些，但是不费什么事儿就有自己的博客了，总共还是不算晚！
+开始阅读《人月神话》了，先摘录一句:
+***编程非常有趣，在于它不仅满足了我们内心深处进行创造的渴望，而且还愉悦了每个人内在的情感。***
 
 ## 推荐博文
   * [使用 Jekyll 构建个人博客](/coding/build-blog-by-jekyll)
